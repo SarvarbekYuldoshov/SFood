@@ -1,0 +1,39 @@
+
+.hover{
+    margin-top: 150px;
+}
+.hover-title {
+    margin-top: 20px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28px;
+    margin-left: 30px;
+}
+.hover-text {
+    line-height: 140%;
+    padding: 15px 0px;
+    margin-left: 30px;
+}
+.hover-text-a{
+    line-height: 140%;
+    padding: 15px 0px;
+    margin-right: 30px;
+}
+.hover-item{
+    display: flex;
+    justify-content: space-between;
+}
+.hover-list{
+    width: 1200px;
+    height: 300px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px 0px;
+    border-radius: 10px;
+}
+.hover-list:hover{
+    transform: scale(0.9);
+}
+.hover-hr{
+    width: 1140px;
+    margin-left: 30px;
+}
