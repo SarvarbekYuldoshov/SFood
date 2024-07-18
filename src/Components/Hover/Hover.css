@@ -31,7 +31,8 @@
     border-radius: 10px;
 }
 .hover-list:hover{
-    transform: scale(0.9);
+    transition: 1s;
+    transform: scale(0.97);
 }
 .hover-hr{
     width: 1140px;
