@@ -1,10 +1,12 @@
 import React from 'react'
 import "./Number.css"
+import { Link } from 'react-router-dom'
 const Number = () => {
   return (
     <div className='number'>
       <div className='container number-container'>
-        <ul className='number-list'>
+       <Link to="/numbercard"> 
+       <ul className='number-list'>
           <li className='number-item'>
             <h1 className='number-title'>MaxWay Magic City</h1>
             <p className='number-text'>Magic City,ул. Бабура, 174, Ташкент, Узбекистан</p>
@@ -14,6 +16,8 @@ const Number = () => {
             <p className='number-text'>10:00-03:00</p>
           </li>
         </ul>
+        </Link>
+        <Link to="/numbercard"> 
         <ul className='number-list'>
           <li className='number-item'>
             <h1 className='number-title'>MaxWay Tashkent City</h1>
@@ -24,6 +28,8 @@ const Number = () => {
             <p className='number-text'>10:00-03:00</p>
           </li>
         </ul>
+        </Link>
+        <Link to="/numbercard"> 
         <ul className='number-list'>
           <li className='number-item'>
             <h1 className='number-title'>MaxWay Chilanzar City</h1>
@@ -34,6 +40,7 @@ const Number = () => {
             <p className='number-text'>10:00-03:00</p>
           </li>
         </ul>
+        </Link>
       </div>
     </div>
   )

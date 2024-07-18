@@ -1,3 +1,47 @@
 {
-    "header_1":"Uy"
+    "header":{
+    "header_1":"Uy",
+    "header_2":"Filiallar",
+    "header_3":"Biz haqimizda",
+    "header_4":"Kontaktlar",
+    "header_5":"Kirish uchun"
+    }
+    ,
+    "layout": {
+        "layout_1": "Lavash",
+        "layout_2": "Desert",
+        "layout_3": "Set",
+        "Layout_4": "Shashlik",
+        "layout_5": "Burger",
+        "layout_6": "Pizza",
+        "layout_7": "Sendvich",
+        "layout_8": "Hot-dog",
+        "layout_9": "Fri",
+        "layout_10": "Ichimlik",
+        "layout_11": "Salat",
+        "layout_12": "Non",
+        "layout_13": "Sos"
+    },
+    "lavash": {
+        "lavash__title_1": "Achchiq ziravorli dengiz mahsulotlari bilan makaron",
+        "lavash__title_2": "x porsiya mavjud",
+        "lavash__title_3": "Qo'ziqorin sosli sho'r makaron",
+        "lavash__title_4": "Issiq sho'rvada mol go'shti bilan dimlama",
+        "lavash__title_5": "Qo'ziqorin sosli sho'r makaron",
+        "lavash__title_6": "Achchiq qovurilgan guruch va omlet",
+        "lavash__title_7": "Achchiq tez tayyorlanadigan makaron",
+        "lavash__title_8": "Maxsus omlet bilan makaron",
+        "lavash__title_9": "Ismaloq bilan makaron"
+    },
+    "Lavash": {
+        "Lavash__text_1": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
+        "Lavash__text_2": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
+        "Lavash__text_3": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
+        "Lavash__text_4": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
+        "Lavash__text_5": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
+        "Lavash__text_6": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
+        "Lavash__text_7": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
+        "Lavash__text_8": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
+        "Lavash__text_9": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi"
+    }
 }

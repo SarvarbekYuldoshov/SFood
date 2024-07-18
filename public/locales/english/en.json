@@ -1,3 +1,46 @@
 {
-    "header_1":"Home"
+"header":{
+    "header_1":"Home",
+    "header_2":"Branches",
+    "header_3":"About Us",
+    "header_4":"Contact",
+    "header_5":"To come in"
+    },
+"layout":{
+    "layout_1":"Lavash",
+    "layout_2":"Desert",
+    "layout_3":"Set",
+    "layout_4":"Xaggi",
+    "layout_5":"Burger",
+    "layout_6":"Pizza",
+    "layout_7":"Sendvich",
+    "layout_8":"Xot-Dog",
+    "layout_9":"Free",
+    "layout_10":"Drink",
+    "layout_11":"Salad",
+    "layout_12":"Bread",
+    "layout_13":"Sauke"
+    },
+"lavash":{
+    "lavash__title_1":"Spicy seasoned seafood noodles",
+    "lavash__title_2":"x owls available",
+    "lavash__title_3":"Salted Pasta with mushroom sauce",
+    "lavash__title_4":"Beef dumpling in hot soup",
+    "lavash__title_5":"Salted Pasta with mushroom sauce",
+    "lavash__title_6":"Hot spicy fried rice with omelet",
+    "lavash__title_7":"Spicy instant noodle with",
+    "lavash__title_8":"constant noodle special omelette",
+    "lavash__title_9":"noodle with spinach"
+},
+"Lavash": {
+    "Lavash__text_1": "Information: meat classic lavash, french fries, pepsi",
+    "Lavash__text_2": "Information: meat classic lavash, french fries, pepsi",
+    "Lavash__text_3": "Information: meat classic lavash, french fries, pepsi",
+    "Lavash__text_4": "Information: meat classic lavash, french fries, pepsi",
+    "Lavash__text_5": "Information: meat classic lavash, french fries, pepsi",
+    "Lavash__text_6": "Information: meat classic lavash, french fries, pepsi",
+    "Lavash__text_7": "Information: meat classic lavash, french fries, pepsi",
+    "Lavash__text_8": "Information: meat classic lavash, french fries, pepsi",
+    "Lavash__text_9": "Information: meat classic lavash, french fries, pepsi"
+}
 }

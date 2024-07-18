@@ -1,0 +1,12 @@
+.numbercard-title{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 39px;
+    padding-bottom: 20px;
+}
+.numbercard-text{
+    font-size: 18px;
+    line-height: 22px;
+    line-height: 140%;
+    margin: 15px 0;
+}

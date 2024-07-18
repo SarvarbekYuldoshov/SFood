@@ -34,9 +34,9 @@
     transition: .3s;
 }
 .header-btn{
+    margin-left: 10px;
     text-align: center;
-    width: 100px;
-    height: 45px;
+    padding: 10px 20px;
     background-color: #8a2be2;
     border: 2px solid #8a2be2;
     font-size: 20px;
