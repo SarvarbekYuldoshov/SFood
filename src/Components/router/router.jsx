@@ -18,7 +18,8 @@ import Salad from "../Food/Salad/Salad"
 import Sauke from "../Food/Sauke/Sauke"
 import Xagi from "../Food/Xagi/Xagi";
 import Button from "../Button/Button";
-import NumberCard from "../NumberCard/NumberCard";
+import NumberCard from "../Number.card/NumberCard";
+
 
 const router = createBrowserRouter([
     {

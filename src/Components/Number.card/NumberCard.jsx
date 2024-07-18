@@ -11,7 +11,6 @@ function NumberCard() {
                 <p className='numbercard-text'>Часы работы: 10:00-03:00</p>
                 <p className='numbercard-text'>Номер телефона:+998 93 148 77 33</p>
                 <p className='numbercard-text'>Ориентир: Magic City</p>
-                <img className='numbercard-img' src="https://maxway.uz/images/Rectangle/max-way.png" alt="" />
             </li>
         </ul>
       </div>
