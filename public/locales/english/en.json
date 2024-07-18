@@ -42,5 +42,40 @@
     "Lavash__text_7": "Information: meat classic lavash, french fries, pepsi",
     "Lavash__text_8": "Information: meat classic lavash, french fries, pepsi",
     "Lavash__text_9": "Information: meat classic lavash, french fries, pepsi"
-}
+    },
+"Desert": {
+        "Desert__title_1": "Black cake",
+        "Desert__title_2": "Assorted unique sweets",
+        "Desert__title_3": "Coffee and assorted sweets",
+        "Desert__title_4": "Lerik for smoking",
+        "Desert__title_5": "Homemade sweets",
+        "Desert__title_6": "Black cake and sweets",
+        "Desert__title_7": "Assorted sweets",
+        "Desert__title_8": "Black pie",
+        "Desert__title_9": "Ice cream and desserts"
+    }
+    ,
+    "desert":{
+        "desert__text_1":"Information: meat classic lavash, french fries, pep",
+        "desert__text_2":"Information: meat classic lavash, french fries, pep", 
+        "desert__text_3":"Information: meat classic lavash, french fries, pep",
+        "desert__text_4":"Information: meat classic lavash, french fries, pep",
+        "desert__text_5":"Information: meat classic lavash, french fries, pep",
+        "desert__text_6":"Information: meat classic lavash, french fries, pep",
+        "desert__text_7":"Information: meat classic lavash, french fries, pep",
+        "desert__text_8":"Information: meat classic lavash, french fries, pep",
+        "desert__text_9":"Information: meat classic lavash, french fries, pep" 
+    },
+    "Set":{
+        "Set__title_1":"Spicy seasoned seafood noodles",
+        "Set__title_2":"x owls available",
+        "Set__title_3":"Salted Pasta with mushroom sauce",
+        "Set__title_4":"Beef dumpling in hot soup",
+        "Set__title_5":"Healthy noodle with spinach leaf",
+        "Set__title_6":"Hot spicy fried rice with omelet",
+        "Set__title_7":"Spicy instant noodle with",
+        "Set__title_8":"constant noodle special omelette",
+        "Set__title_9":"Healthy noodle with spinach leaf"
+    }
+
 }

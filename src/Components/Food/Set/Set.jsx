@@ -11,49 +11,50 @@ import seta_7 from "../../images/set-7.jpg"
 import seta_8 from "../../images/set-8.jpg"
 import seta_9 from "../../images/set-9.jpg"
 const Set = () => {
+  const {t} = useTranslation();
   const seta1 = {
     img:seta_1,
-    title:"Spicy seasoned seafood noodles",
+    title:t('Set.Set__title_1'),
     text:"Информация: лаваш мясной classic, картофель-фри, пеп",
   }
   const seta2 = {
     img:seta_2,
-    title:"Spicy seasoned seafood noodles",
+    title:t('Set.Set__title_2'),
     text:"Информация: лаваш мясной classic, картофель-фри, пеп",
   }
   const seta3= {
     img:seta_3,
-    title:"Spicy seasoned seafood noodles",
+    title:t('Set.Set__title_3'),
     text:"Информация: лаваш мясной classic, картофель-фри, пеп",
   }
   const seta4 = {
     img:seta_4,
-    title:"Spicy seasoned seafood noodles",
+    title:t('Set.Set__title_4'),
     text:"Информация: лаваш мясной classic, картофель-фри, пеп",
   }
   const seta5 = {
     img:seta_5,
-    title:"Spicy seasoned seafood noodles",
+    title:t('Set.Set__title_5'),
     text:"Информация: лаваш мясной classic, картофель-фри, пеп",
   }
   const seta6 = {
     img:seta_6,
-    title:"Spicy seasoned seafood noodles",
+    title:t('Set.Set__title_6'),
     text:"Информация: лаваш мясной classic, картофель-фри, пеп",
   }
   const seta7 = {
     img:seta_7,
-    title:"Spicy seasoned seafood noodles",
+    title:t('Set.Set__title_7'),
     text:"Информация: лаваш мясной classic, картофель-фри, пеп",
   }
   const seta8 = {
     img:seta_8,
-    title:"Spicy seasoned seafood noodles",
+    title:t('Set.Set__title_8'),
     text:"Информация: лаваш мясной classic, картофель-фри, пеп",
   }
   const seta9 = {
     img:seta_9,
-    title:"Spicy seasoned seafood noodles",
+    title:t('Set.Set__title_9'),
     text:"Информация: лаваш мясной classic, картофель-фри, пеп",
   }
   return (
