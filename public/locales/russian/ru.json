@@ -321,6 +321,22 @@
     },
     "Fooder":{
         "fooder__title":"Заказывайте по номеру"
+    },
+    "Number": {
+        "Number__title_1": "MaxWay Magic City",
+        "Number__title_2": "MaxWay Tashkent City",
+        "Number__title_3": "MaxWay Chilanzar City"
+    },
+    "number": {
+        "number__text_1": "Magic City, ул. Бабура, 174, Ташкент, Узбекистан",
+        "number__text_2": "Magic City, ул. Навои, 26, Ташкент, Узбекистан",
+        "number__text_3": "Magic City, ул. Чиланзар, 3, Ташкент, Узбекистан",
+        "number__text_4":"Часы работы",
+        "number__text_5":"Часы работы",
+        "number__text_6":"Часы работы",
+        "number__text_7":"10:00-03:00",
+        "number__text_8":"10:00-03:00",
+        "number__text_9":"10:00-03:00"
     }
 }
 

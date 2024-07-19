@@ -321,5 +321,21 @@
     },
     "Fooder":{
         "fooder__title":"Order by number"
+    },
+    "Number": {
+        "Number__title_1": "MaxWay Magic City",
+        "Number__title_2": "MaxWay Tashkent City",
+        "Number__title_3": "MaxWay Chilonzar City"
+    },
+    "number": {
+        "number__text_1": "Magic City, Babur Street, 174, Tashkent, Uzbekistan",
+        "number__text_2": "Magic City, Navoiy Street, 26, Tashkent, Uzbekistan",
+        "number__text_3": "Magic City, Chilanzar Street, 3, Tashkent, Uzbekistan",
+        "number__text_4": "Working hours",
+        "number__text_5": "Working hours",
+        "number__text_6": "Working hours",
+        "number__text_7":"10:00-03:00",
+        "number__text_8":"10:00-03:00",
+        "number__text_9":"10:00-03:00"
     }
 }
