@@ -343,5 +343,18 @@
     },
     "about":{
         "about__text":"The company was founded in February 2005 in Tashkent. Currently, the company has 11 branches in Tashkent. The menu mainly consists of club sandwiches, hot dogs, burgers, lavash, and doners. Our priorities are the freshness and quality of ingredients, the variety of fillings, affordable prices, and attention to guest requests. Every day, a large number of different people order at MaxWay. We strive to increase both the number of visitors and the number of branches. With each dish we prepare, we refine the details of our signature recipes and seek the perfect balance of price and quality to continue being your favorite brand. If you encounter poor service or low-quality food from us, please write to us. We gladly accept both positive and negative feedback. A guest's complaint is a gift that helps us grow."
+    },
+    "Hover":{
+        "Hover__title_1":"Contact Center Phones",
+        "Hover__title_2":"Customer Support Department",
+        "Hover__title_3":"For Copyright Holders",
+        "Hover__text_1":"24/7, without days off",
+        "Hover__text_2":"Tashkent",
+        "Hover__text_3":"Namangan",
+        "Hover__text_4":"Almalyk",
+        "Hover__text_5":"Email",
+        "Hover__text_6":"Contact Phone",
+        "Hover__text_7":"For questions related to the alleged unauthorized use of trademarks, logos, and other materials, please contact us by email with supporting documents attached",
+        "Hover__text_8":"Email"
     }
 }

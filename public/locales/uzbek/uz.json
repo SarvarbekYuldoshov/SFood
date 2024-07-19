@@ -344,6 +344,19 @@
         },
         "about":{
             "about__text": "Kompaniya 2005-yil fevral oyida Toshkentda tashkil etilgan. Hozirgi vaqtda kompaniyaning Toshkentda 11 ta filiali mavjud. Menyu asosan klub sendvichlari, hot-doglar, burgerlar, lavashlar va donarlardan iborat. Bizning ustuvorliklarimiz – ingredientlarning yangi va sifatli bo'lishi, to'ldirishlarning xilma-xilligi, arzon narxlar va mehmonlarning istaklariga e'tibor berish. MaxWayga har kuni turli xil odamlar ko'p miqdorda buyurtma berishadi. Biz esa mehmonlar sonini va filiallar sonini oshirishga intilamiz. Har bir tayyorlangan taom bilan biz o'zimizning maxsus retseptlarimizning tafsilotlarini tozalaymiz va narx va sifatning mukammal muvozanatini izlaymiz, sizning sevimli brendingiz bo'lib qolish uchun. Agar siz yomon xizmat yoki biz tomonidan tayyorlangan ovqatning past sifatiga duch kelsangiz, bizga yozishni unutmang. Biz ijobiy va salbiy fikrlarni mamnuniyat bilan qabul qilamiz. Mehmonning shikoyati - bu biz o'sishga erishishimiz mumkin bo'lgan sovg'adir."
+        },
+        "Hover":{
+            "Hover__title_1":"Aloqa markazlari telefonlari",
+            "Hover__title_2":"Mijozlarni qo'llab-quvvatlash bo'limi",
+            "Hover__title_3":"Mualliflik huquqi egalari uchun",
+            "Hover__text_1":"Kun-u tun, dam olish kunisiz",
+            "Hover__text_2":"Toshkent",
+            "Hover__text_3":"Namangan",
+            "Hover__text_4":"Olmaliq",
+            "Hover__text_5":"Elektron pochta",
+            "Hover__text_6":"Aloqa telefoni",
+            "Hover__text_7":"Tovar belgilari, logotiplar va boshqa materiallardan nojo'ya foydalanish bilan bog'liq savollar bo'yicha, tasdiqlovchi hujjatlarni ilova qilgan holda, elektron pochta orqali murojaat qilishni so'raymiz",
+            "Hover__text_8":"Elektron pochta"
         }
 
 }
