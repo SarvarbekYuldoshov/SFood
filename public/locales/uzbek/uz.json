@@ -338,6 +338,12 @@
             "number__text_7":"10:00-03:00",
             "number__text_8":"10:00-03:00",
             "number__text_9":"10:00-03:00"
+        },
+        "About": {
+            "About__title": "Kompaniya haqida"
+        },
+        "about":{
+            "about__text": "Kompaniya 2005-yil fevral oyida Toshkentda tashkil etilgan. Hozirgi vaqtda kompaniyaning Toshkentda 11 ta filiali mavjud. Menyu asosan klub sendvichlari, hot-doglar, burgerlar, lavashlar va donarlardan iborat. Bizning ustuvorliklarimiz – ingredientlarning yangi va sifatli bo'lishi, to'ldirishlarning xilma-xilligi, arzon narxlar va mehmonlarning istaklariga e'tibor berish. MaxWayga har kuni turli xil odamlar ko'p miqdorda buyurtma berishadi. Biz esa mehmonlar sonini va filiallar sonini oshirishga intilamiz. Har bir tayyorlangan taom bilan biz o'zimizning maxsus retseptlarimizning tafsilotlarini tozalaymiz va narx va sifatning mukammal muvozanatini izlaymiz, sizning sevimli brendingiz bo'lib qolish uchun. Agar siz yomon xizmat yoki biz tomonidan tayyorlangan ovqatning past sifatiga duch kelsangiz, bizga yozishni unutmang. Biz ijobiy va salbiy fikrlarni mamnuniyat bilan qabul qilamiz. Mehmonning shikoyati - bu biz o'sishga erishishimiz mumkin bo'lgan sovg'adir."
         }
 
 }
