@@ -308,5 +308,18 @@
         "sauke__text_7": "Each dish will taste better",
         "sauke__text_8": "Each dish will taste better",
         "sauke__text_9": "Each dish will taste better"
+    },
+    "fooder": {
+        "fooder__link_1": "Home",
+        "fooder__link_2": "Branches",
+        "fooder__link_3": "About Us",
+        "fooder__link_4": "Contacts",
+        "fooder__link_5": "Login",
+        "fooder__link_6": "© 2020–2022, LLC «IT-TIME», official website",
+        "fooder__text":"Developed by Sarvarbek",
+        "fooder__title_1": "Join us"
+    },
+    "Fooder":{
+        "fooder__title":"Order by number"
     }
 }

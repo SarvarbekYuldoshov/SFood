@@ -1,13 +1,13 @@
 {
-    "header":{
-    "header_1":"Home",
-    "header_2":"Filiallar",
-    "header_3":"Biz haqimizda",
-    "header_4":"Kontaktlar",
-    "header_5":"Kirish uchun"
+"header":{
+       "header_1":"Home",
+       "header_2":"Filiallar",
+       "header_3":"Biz haqimizda",
+       "header_4":"Kontaktlar",
+       "header_5":"Kirish uchun"
     }
     ,
-    "layout": {
+"layout": {
         "layout_1": "Lavash",
         "layout_2": "Desert",
         "layout_3": "Set",
@@ -22,7 +22,7 @@
         "layout_12": "Non",
         "layout_13": "Sos"
     },
-    "lavash": {
+"lavash": {
         "lavash__title_1": "Achchiq ziravorli dengiz mahsulotlari bilan makaron",
         "lavash__title_2": "x porsiya mavjud",
         "lavash__title_3": "Qo'ziqorin sosli sho'r makaron",
@@ -33,7 +33,7 @@
         "lavash__title_8": "Maxsus omlet bilan makaron",
         "lavash__title_9": "Ismaloq bilan makaron"
     },
-    "Lavash": {
+ "Lavash": {
         "Lavash__text_1": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
         "Lavash__text_2": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
         "Lavash__text_3": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
@@ -44,7 +44,7 @@
         "Lavash__text_8": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
         "Lavash__text_9": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi"
     },
-    "Desert":{
+"Desert":{
         "Desert__title_1":"Qora tort",
         "Desert__title_2":"Uzgacha shirinliklar jamlanmasi",
         "Desert__title_3":"Qahfa va u bila jamlanma",
@@ -55,7 +55,7 @@
         "Desert__title_8":"Qora perok",
         "Desert__title_9":"Marojnilar va desertlar"
     },
-    "desert": {
+"desert": {
         "desert__text_1": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
         "desert__text_2": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi", 
         "desert__text_3": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
@@ -66,7 +66,7 @@
         "desert__text_8": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
         "desert__text_9": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi"
     },
-    "Set": {
+"Set": {
         "Set__title_1": "Achchiq ziravorli dengiz mahsulotlari bilan makaron",
         "Set__title_2": "x porsiya mavjud",
         "Set__title_3": "Qo'ziqorin sosli sho'r makaron",
@@ -77,7 +77,7 @@
         "Set__title_8": "Maxsus omlet bilan makaron",
         "Set__title_9": "Ismaloqli sog'lom makaron"
     },
-    "set": {
+"set": {
         "set__text_1": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
         "set__text_2": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
         "set__text_3": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
@@ -88,7 +88,7 @@
         "set__text_8": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi",
         "set__text_9": "Ma'lumot: go'shtli klassik lavash, kartoshka fri, pepsi"
     },
-    "Xaggi":{
+"Xaggi":{
         "Xaggi__title_1":"Gushtli va tovuqli mazzali xaggi",
         "Xaggi__title_2":"Gushtli va tovuqli mazzali xaggi",
         "Xaggi__title_3":"Gushtli va tovuqli mazzali xaggi",
@@ -99,7 +99,7 @@
         "Xaggi__title_8":"Gushtli va tovuqli mazzali xaggi",
         "Xaggi__title_9":"Gushtli va tovuqli mazzali xaggi"
     },
-    "xaggi":{
+"xaggi":{
         "xaggi__text_1":"Ma'lumot: go'shtli klassik",
         "xaggi__text_2":"Ma'lumot: go'shtli klassik kotta",
         "xaggi__text_3":"Ma'lumot: go'shtli klassik kichkina",
@@ -110,7 +110,7 @@
         "xaggi__text_8":"Ma'lumot: tovuqli klassik kichik",
         "xaggi__text_9":"Ma'lumot: tovuqli klassik kichik"
     },
-    "Burger":{
+"Burger":{
         "Burger__title_1":"Katletli va tovuqli mazzali",
         "Burger__title_2":"Katletli va freeli mazzali kotta",
         "Burger__title_3":"Katletli va tovuqli mazzali kotta",
@@ -121,7 +121,7 @@
         "Burger__title_8":"Katletli va tovuqli mazzali ",
         "Burger__title_9":"Katletli va tovuqli mazzali"
     },
-    "burger":{
+"burger":{
         "burger__text_1":"Ma'lumot: go'shtli klassik",
         "burger__text_2":"Ma'lumot: go'shtli klassik kotta",
         "burger__text_3":"Ma'lumot: go'shtli klassik kichik",
@@ -132,7 +132,7 @@
         "burger__text_8":"Ma'lumot: go'shtli klassik assorti",
         "burger__text_9":"Ma'lumot: go'shtli klassik"
     },
-    "Pizza":{
+"Pizza":{
         "Pizza__title_1":"Kukatli va gushti mazzali",
         "Pizza__title_2":"Kukatli va gushti mazzali kichik",
         "Pizza__title_3":"Kukatli va gushti mazzali kotta",
@@ -143,7 +143,7 @@
         "Pizza__title_8":"Kukatli va kalbasali mazzali arlash",
         "Pizza__title_9":"Kukatli va kalbasali mazzali kichik"
     },
-    "pizza":{
+"pizza":{
         "pizza__text_1":"Ma'lumot: go'shtli klassik",
         "pizza__text_2":"Ma'lumot: go'shtli klassik kichik",
         "pizza__text_3":"Ma'lumot: go'shtli klassik kotta",
@@ -154,7 +154,7 @@
         "pizza__text_8":"Kolbasali: go'shtli klassik",
         "pizza__text_9":"Ma'lumot: go'shtli klassik"
     },
-    "Sendvich":{
+"Sendvich":{
         "Sendvich__title_1":"Kotta sendvich mazzali",
         "Sendvich__title_2":"Kichik sendvich mazzali",
         "Sendvich__title_3":"Kotta sendvich mazzali free bilan",
@@ -166,7 +166,7 @@
         "Sendvich__title_9":"Kotta sendvich mazzali"
     }
     ,
-    "sendvich":{
+"sendvich":{
         "sendvich__text_1":"Ma'lumot: go'shtli klassik kichik",
         "sendvich__text_2":"Ma'lumot: go'shtli klassik sendvich",
         "sendvich__text_3":"Ma'lumot: go'shtli klassik peplsi bilan ",
@@ -177,7 +177,7 @@
         "sendvich__text_8":"Ma'lumot: klassik",
         "sendvich__text_9":"Ma'lumot: go'shtli klassik"
     },
-    "Xodog":{
+"Xodog":{
         "Xodog__title_1":"Kotta xodog mazzali klassik",
         "Xodog__title_2":"Kichik xodog mazzali",
         "Xodog__title_3":"Kotta xodog mazzali klassik",
@@ -188,7 +188,7 @@
         "Xodog__title_8":"Kichik xodog mazzali",
         "Xodog__title_9":"Kotta xodog mazzali"
     },
-    "xodog":{
+"xodog":{
         "xodog__text_1":"Ma'lumot: go'shtli klassik",
         "xodog__text_2":"Ma'lumot: Saladli klassik",
         "xodog__text_3":"Ma'lumot: qazzili klassik",
@@ -199,7 +199,7 @@
         "xodog__text_8":"Ma'lumot: go'shtli klassik",
         "xodog__text_9":"Ma'lumot: go'shtli klassik"
     },
-    "Free":{
+"Free":{
         "Free__title_1":"Kotta free mazzali achiq bilan",
         "Free__title_2":"Kichik free mazzali sous bilan",
         "Free__title_3":"Kotta free mazzali free bilan",
@@ -210,7 +210,7 @@
         "Free__title_8":"Kotta free mazzali pepsi bilan",
         "Free__title_9":"Kotta free mazzali cola bilan"
     },
-    "free":{
+"free":{
         "free__text_1":"Ma'lumot: go'shtli klassik",
         "free__text_2":"Ma'lumot: go'shtli klassik",
         "free__text_3":"Ma'lumot: go'shtli klassik",
@@ -221,7 +221,7 @@
         "free__text_8":"Ma'lumot: go'shtli klassik",
         "free__text_9":"Ma'lumot: go'shtli klassik"
     },
-    "Drink":{
+"Drink":{
         "Drink__title_1":"Ichimliklar sovuq va yaxshi holatda",
         "Drink__title_2":"Ichimliklar sovuq va yaxshi",
         "Drink__title_3":"Ichimliklar sovuq va yaxshi",
@@ -232,7 +232,7 @@
         "Drink__title_8":"Ichimliklar sovuq va yaxshi",
         "Drink__title_9":"Ichimliklar sovuq va yaxshi"
     },
-    "drink":{
+"drink":{
         "drink__text_1":"Ma'lumot: sovuq suvlar va qaxvalar",
         "drink__text_2":"Ma'lumot: sovuq suvlar va qaxvalar",
         "drink__text_3":"Ma'lumot: sovuq suvlar va qaxvalar",
@@ -243,7 +243,7 @@
         "drink__text_8":"Ma'lumot: sovuq suvlar va qaxvalar",
         "drink__text_9":"Ma'lumot: sovuq suvlar va qaxvalar"
     },
-    "Salad":{
+"Salad":{
         "Salad__title_1":"Salatlar har biri uzgacha tamga ega",
         "Salad__title_2":"Salatlar har biri uzgacha tamga ega",
         "Salad__title_3":"Salatlar har biri uzgacha tamga ega",
@@ -254,7 +254,7 @@
         "Salad__title_8":"Salatlar har biri uzgacha tamga ega",
         "Salad__title_9":"Salatlar har biri uzgacha tamga ega"
     },
-    "salad":{
+"salad":{
         "salad__text_1":"Ma'lumot: go'shtli klassik salad",
         "salad__text_2":"Ma'lumot: oddiy klassik salad",
         "salad__text_3":"Ma'lumot: aliviya klassik salad",
@@ -265,7 +265,7 @@
         "salad__text_8":"Ma'lumot: go'shtli klassik salad",
         "salad__text_9":"Ma'lumot: go'shtli klassik salad"
     },
-    "Bread":{
+"Bread":{
         "Bread__title_1":"Nonlar har biri uzgacha tamga ega",
         "Bread__title_2":"Nonlar har biri uzgacha tamga ega",
         "Bread__title_3":"Nonlar har biri uzgacha tamga ega",
@@ -276,7 +276,7 @@
         "Bread__title_8":"Nonlar har biri uzgacha tamga ega",
         "Bread__title_9":"Nonlar har biri uzgacha tamga ega"
     },
-    "bread":{
+"bread":{
         "bread__text_1":"Ma'lumot: nonlar",
         "bread__text_2":"Ma'lumot: nonlar",
         "bread__text_3":"Ma'lumot: nonlar",
@@ -287,7 +287,7 @@
         "bread__text_8":"Ma'lumot: nonlar",
         "bread__text_9":"Ma'lumot: nonlar"
     },
-    "Sauke":{
+"Sauke":{
         "Sauke__title_1":"Sovuslar har biri uzgacha tamga ega",
         "Sauke__title_2":"Sovuslar har biri uzgacha tamga ega",
         "Sauke__title_3":"Sovuslar har biri uzgacha tamga ega",
@@ -298,7 +298,7 @@
         "Sauke__title_8":"Sovuslar har biri uzgacha tamga ega",
         "Sauke__title_9":"Sovuslar har biri uzgacha tamga ega"
     },
-    "sauke":{
+"sauke":{
         "sauke__text_1":"Ma'lumot: sovuslar achiq va uzgacha tamli",
         "sauke__text_2":"Har bir taomni mazzaliyroq his qiling",
         "sauke__text_3":"Har bir taomni mazzaliyroq his qiling",
@@ -308,6 +308,20 @@
         "sauke__text_7":"Har bir taomni mazzaliyroq his qiling",
         "sauke__text_8":"Har bir taomni mazzaliyroq his qiling",
         "sauke__text_9":"Har bir taomni mazzaliyroq his qiling"
-    }
+    },
+
+"fooder":{
+        "fooder__link_1":"Home",
+        "fooder__link_2":"Filiallar",
+        "fooder__link_3":"Biz haqimizda",
+        "fooder__link_4":"Kontaktlar",
+        "fooder__link_5":"Kirish uchun",
+        "fooder__link_6": "© 2020–2022, MChJ «IT-TIME», rasmiy sayt",
+        "fooder__text": "Sarvarbek tomonidan ishlab chiqilgan",
+        "fooder__title_1": "Bizga qo'shiling"
+        },
+        "Fooder":{
+            "fooder__title":"Buyurtma berish uchun raqamga qo'ng'iroq qiling"
+        }
 
 }
