@@ -10,52 +10,53 @@ import seta_6 from "../../images/set-6.jpg"
 import seta_7 from "../../images/set-7.jpg"
 import seta_8 from "../../images/set-8.jpg"
 import seta_9 from "../../images/set-9.jpg"
+import { useTranslation } from 'react-i18next'
 const Set = () => {
   const {t} = useTranslation();
   const seta1 = {
     img:seta_1,
     title:t('Set.Set__title_1'),
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    text:t('set.set__text_1'),
   }
   const seta2 = {
     img:seta_2,
     title:t('Set.Set__title_2'),
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    text:t('set.set__text_2'),
   }
   const seta3= {
     img:seta_3,
     title:t('Set.Set__title_3'),
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    text:t('set.set__text_3'),
   }
   const seta4 = {
     img:seta_4,
     title:t('Set.Set__title_4'),
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    text:t('set.set__text_4'),
   }
   const seta5 = {
     img:seta_5,
     title:t('Set.Set__title_5'),
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    text:t('set.set__text_5'),
   }
   const seta6 = {
     img:seta_6,
     title:t('Set.Set__title_6'),
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    text:t('set.set__text_6'),
   }
   const seta7 = {
     img:seta_7,
     title:t('Set.Set__title_7'),
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    text:t('set.set__text_7'),
   }
   const seta8 = {
     img:seta_8,
     title:t('Set.Set__title_8'),
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    text:t('set.set__text_8'),
   }
   const seta9 = {
     img:seta_9,
     title:t('Set.Set__title_9'),
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    text:t('set.set__text_9'),
   }
   return (
     <div className='set'>

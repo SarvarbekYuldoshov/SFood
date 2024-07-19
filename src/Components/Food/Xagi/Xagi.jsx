@@ -10,51 +10,53 @@ import xagi6 from "../../images/xagi-6.jpg"
 import xagi7 from "../../images/xagi-7.jpg"
 import xagi8 from "../../images/xagi-8.jpg"
 import xagi9 from "../../images/xagi-9.jpg"
+import { useTranslation } from 'react-i18next'
 const Xagi = () => {
+  const {t} = useTranslation ();
   const xaggi1 = {
     img:xagi1,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xaggi.Xaggi__title_1'),
+    text:t('xaggi.xaggi__text_1')
   }
   const xaggi2 = {
     img:xagi2,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xaggi.Xaggi__title_2'),
+    text:t('xaggi.xaggi__text_2')
   }
   const xaggi3 = {
     img:xagi3,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xaggi.Xaggi__title_3'),
+    text:t('xaggi.xaggi__text_3')
   }
   const xaggi4 = {
     img:xagi4,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xaggi.Xaggi__title_4'),
+    text:t('xaggi.xaggi__text_4')
   }
   const xaggi5 = {
     img:xagi5,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xaggi.Xaggi__title_5'),
+    text:t('xaggi.xaggi__text_5')
   }
   const xaggi6 = {
     img:xagi6,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xaggi.Xaggi__title_6'),
+    text:t('xaggi.xaggi__text_6')
   }
   const xaggi7 = {
     img:xagi7,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xaggi.Xaggi__title_7'),
+    text:t('xaggi.xaggi__text_7')
   }
   const xaggi8 = {
     img:xagi8,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xaggi.Xaggi__title_8'),
+    text:t('xaggi.xaggi__text_8')
   }
   const xaggi9 = {
     img:xagi9,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xaggi.Xaggi__title_9'),
+    text:t('xaggi.xaggi__text_9')
   }
   return (
     <div className='xagi'>

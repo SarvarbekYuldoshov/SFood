@@ -9,46 +9,49 @@ import pizza_5 from "../../images/pizza-5.jpg"
 import pizza_6 from "../../images/pizza-6.jpg"
 import pizza_7 from "../../images/pizza-7.jpg"
 import pizza_8 from "../../images/pizza-8.jpg"
+import { t } from 'i18next'
+import { useTranslation } from 'react-i18next'
 const Pizza = () => {
+  const {t} = useTranslation();
   const pizza1 = {
     img:pizza_1,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Pizza.Pizza__title_1'),
+    text:t('pizza.pizza__text_1'),
   }
   const pizza2 = {
     img:pizza_2,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Pizza.Pizza__title_2'),
+    text:t('pizza.pizza__text_2'),
   }
   const pizza3 = {
     img:pizza_3,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Pizza.Pizza__title_3'),
+    text:t('pizza.pizza__text_3'),
   }
   const pizza4 = {
     img:pizza_4,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Pizza.Pizza__title_4'),
+    text:t('pizza.pizza__text_4'),
   }
   const pizza5 = {
     img:pizza_5,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Pizza.Pizza__title_5'),
+    text:t('pizza.pizza__text_5'),
   }
   const pizza6 = {
     img:pizza_6,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Pizza.Pizza__title_6'),
+    text:t('pizza.pizza__text_7'),
   }
   const pizza7 = {
     img:pizza_7,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Pizza.Pizza__title_8'),
+    text:t('pizza.pizza__text_8'),
   }
   const pizza8 = {
     img:pizza_8,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Pizza.Pizza__title_9'),
+    text:t('pizza.pizza__text_9'),
   }
   return (
     <div className='pizza'>

@@ -10,51 +10,54 @@ import salad_6 from "../../images/salad-6.jpg"
 import salad_7 from "../../images/salad-7.jpg"
 import salad_8 from "../../images/salad-8.jpg"
 import salad_9 from "../../images/salad-9.jpg"
+import { t } from 'i18next'
+import { useTranslation } from 'react-i18next'
 const Salad = () => {
+  const {t} = useTranslation();
   const salad1 = {
     img:salad_1,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Salad.Salad__title_1'),
+    text:t('salad.salad__text_1'),
   }
   const salad2 = {
     img:salad_2,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Salad.Salad__title_2'),
+    text:t('salad.salad__text_2'),
   }
   const salad3 = {
     img:salad_3,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Salad.Salad__title_3'),
+    text:t('salad.salad__text_3'),
   }
   const salad4 = {
     img:salad_4,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Salad.Salad__title_4'),
+    text:t('salad.salad__text_4'),
   }
   const salad5 = {
     img:salad_5,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Salad.Salad__title_5'),
+    text:t('salad.salad__text_5'),
   }
   const salad6 = {
     img:salad_6,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Salad.Salad__title_6'),
+    text:t('salad.salad__text_6'),
   }
   const salad7 = {
     img:salad_7,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Salad.Salad__title_7'),
+    text:t('salad.salad__text_7'),
   }
   const salad8 = {
     img:salad_8,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Salad.Salad__title_8'),
+    text:t('salad.salad__text_8'),
   }
   const salad9 = {
     img:salad_9,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Salad.Salad__title_9'),
+    text:t('salad.salad__text_9'),
   }
   return (
     <div className='salad'>

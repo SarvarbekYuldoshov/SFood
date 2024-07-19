@@ -10,51 +10,54 @@ import xodog6 from "../../images/xoddog-6.jpg"
 import xodog7 from "../../images/xoddog-7.jpg"
 import xodog8 from "../../images/xoddog-8.jpg"
 import xodog9 from "../../images/xoddog-9.jpg"
+import { t } from 'i18next'
+import { useTranslation } from 'react-i18next'
 const Xoddog = () => {
+  const {t} = useTranslation();
   const xoddog1 = {
     img:xodog1,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xodog.Xodog__title_1'),
+    text:t('xodog.xodog__text_1'),
   }
   const xoddog2 = {
     img:xodog2,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xodog.Xodog__title_2'),
+    text:t('xodog.xodog__text_2'),
   }
   const xoddog3 = {
     img:xodog3,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xodog.Xodog__title_3'),
+    text:t('xodog.xodog__text_3'),
   }
   const xoddog4 = {
     img:xodog4,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xodog.Xodog__title_4'),
+    text:t('xodog.xodog__text_4'),
   }
   const xoddog5 = {
     img:xodog5,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xodog.Xodog__title_5'),
+    text:t('xodog.xodog__text_5'),
   }
   const xoddog6 = {
     img:xodog6,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    ttitle:t('Xodog.Xodog__title_6'),
+    text:t('xodog.xodog__text_6'),
   }
   const xoddog7 = {
     img:xodog7,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xodog.Xodog__title_7'),
+    text:t('xodog.xodog__text_7'),
   }
   const xoddog8 = {
     img:xodog8,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    title:t('Xodog.Xodog__title_8'),
+    text:t('xodog.xodog__text_8'),
   }
   const xoddog9 = {
     img:xodog9,
-    title:"Spicy seasoned seafood noodles",
-    text:"Информация: лаваш мясной classic, картофель-фри, пеп",
+    ttitle:t('Xodog.Xodog__title_9'),
+    text:t('xodog.xodog__text_9'),
   }
   return (
     <div className='xoddog'>

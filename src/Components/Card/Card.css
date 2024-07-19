@@ -9,12 +9,12 @@
 }
 .card-list{
     width: 260px;
-    height: 500px;
+    height: 375px;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, .3);
     cursor: pointer;
     margin: 15px 4px;
-    max-height: 370px;
+    /* max-height: 370px; */
     padding: 10px 12px 18px;
     transition: .3s;
 }
@@ -26,7 +26,7 @@
     display: block;
     font-size: 1.17em;
     width: 240px;
-    height: 25px;
+    height: 30px;
     margin-top: 10px;
 }
 .card-text{

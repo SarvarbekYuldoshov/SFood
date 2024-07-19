@@ -76,6 +76,237 @@
         "Set__title_7":"Spicy instant noodle with",
         "Set__title_8":"constant noodle special omelette",
         "Set__title_9":"Healthy noodle with spinach leaf"
-    }
+    },
+    "set": {
+        "set__text_1": "Information: meat classic lavash, french fries, pepsi",
+        "set__text_2": "Information: meat classic lavash, french fries, pepsi",
+        "set__text_3": "Information: meat classic lavash, french fries, pepsi",
+        "set__text_4": "Information: meat classic lavash, french fries, pepsi",
+        "set__text_5": "Information: meat classic lavash, french fries, pepsi",
+        "set__text_6": "Information: meat classic lavash, french fries, pepsi",
+        "set__text_7": "Information: meat classic lavash, french fries, pepsi",
+        "set__text_8": "Information: meat classic lavash, french fries, pepsi",
+        "set__text_9": "Information: meat classic lavash, french fries, pepsi"
+    },
+    "Xaggi": {
+        "Xaggi__title_1": "Delicious xaggi with meat and chicken",
+        "Xaggi__title_2": "Delicious xaggi with meat and chicken",
+        "Xaggi__title_3": "Delicious xaggi with meat and chicken",
+        "Xaggi__title_4": "Delicious xaggi with meat and chicken",
+        "Xaggi__title_5": "Delicious xaggi with meat and chicken",
+        "Xaggi__title_6": "Delicious xaggi with meat and chicken",
+        "Xaggi__title_7": "Delicious xaggi with meat and chicken",
+        "Xaggi__title_8": "Delicious xaggi with meat and chicken",
+        "Xaggi__title_9": "Delicious xaggi with meat and chicken"
+    },
 
+    "xaggi": {
+        "xaggi__text_1": "Information: classic with meat",
+        "xaggi__text_2": "Information: classic with meat large",
+        "xaggi__text_3": "Information: classic with meat small",
+        "xaggi__text_4": "Information: classic with chicken",
+        "xaggi__text_5": "Information: classic with chicken large",
+        "xaggi__text_6": "Information: classic with chicken small",
+        "xaggi__text_7": "Information: classic with chicken small",
+        "xaggi__text_8": "Information: classic with chicken small",
+        "xaggi__text_9": "Information: classic with chicken small"
+    },
+    "Burger": {
+        "Burger__title_1": "Delicious with cutlet and chicken",
+        "Burger__title_2": "Delicious with cutlet and fries large",
+        "Burger__title_3": "Delicious with cutlet and chicken large",
+        "Burger__title_4": "Delicious with cutlet and chicken small",
+        "Burger__title_5": "Delicious with cutlet and chicken special offer",
+        "Burger__title_6": "Delicious with cutlet, chicken, and pepsi",
+        "Burger__title_7": "Delicious with cutlet, chicken, and water",
+        "Burger__title_8": "Delicious with cutlet and chicken",
+        "Burger__title_9": "Delicious with cutlet and chicken"
+    },
+    "burger": {
+        "burger__text_1": "Information: classic with meat",
+        "burger__text_2": "Information: classic with meat large",
+        "burger__text_3": "Information: classic with meat small",
+        "burger__text_4": "Information: classic with meat assorted",
+        "burger__text_5": "Information: classic with chicken",
+        "burger__text_6": "Information: classic with chicken small",
+        "burger__text_7": "Information: classic with chicken large",
+        "burger__text_8": "Information: classic with meat assorted",
+        "burger__text_9": "Information: classic with meat"
+    },
+    "Pizza": {
+        "Pizza__title_1": "Delicious with chicken and meat",
+        "Pizza__title_2": "Delicious with chicken and meat small",
+        "Pizza__title_3": "Delicious with chicken and meat large",
+        "Pizza__title_4": "Delicious with chicken and sausage",
+        "Pizza__title_5": "Delicious with chicken and sausage small",
+        "Pizza__title_6": "Delicious with chicken and sausage large",
+        "Pizza__title_7": "Delicious with chicken and sausage",
+        "Pizza__title_8": "Delicious with chicken and sausage mixed",
+        "Pizza__title_9": "Delicious with chicken and sausage small"
+    },
+    "pizza": {
+        "pizza__text_1": "Information: classic with meat",
+        "pizza__text_2": "Information: classic with meat small",
+        "pizza__text_3": "Information: classic with meat large",
+        "pizza__text_4": "Information: classic with meat mixed",
+        "pizza__text_5": "Salad: classic with meat",
+        "pizza__text_6": "Salad: classic with meat large",
+        "pizza__text_7": "Information: classic with meat small",
+        "pizza__text_8": "With sausage: classic with meat",
+        "pizza__text_9": "Information: classic with meat"
+    },
+    "Sendvich": {
+        "Sendvich__title_1": "Large delicious sandwich",
+        "Sendvich__title_2": "Small delicious sandwich",
+        "Sendvich__title_3": "Large delicious sandwich with fries",
+        "Sendvich__title_4": "Large delicious sandwich with Pepsi",
+        "Sendvich__title_5": "Large delicious sandwich with Coca-Cola",
+        "Sendvich__title_6": "Large delicious sandwich with KFC",
+        "Sendvich__title_7": "Large delicious sandwich with lavash",
+        "Sendvich__title_8": "Large delicious sandwich with burger",
+        "Sendvich__title_9": "Large delicious sandwich"
+    },
+    "sendvich": {
+        "sendvich__text_1": "Information: classic small with meat",
+        "sendvich__text_2": "Information: classic sandwich with meat",
+        "sendvich__text_3": "Information: classic with meat and Pepsi",
+        "sendvich__text_4": "Information: classic with meat and fruits",
+        "sendvich__text_5": "Information: classic with meat and cola",
+        "sendvich__text_6": "Information: classic large with meat",
+        "sendvich__text_7": "Information: simple classic",
+        "sendvich__text_8": "Information: classic",
+        "sendvich__text_9": "Information: classic with meat"
+    },
+    "Xodog": {
+        "Xodog__title_1": "Large delicious classic hot dog",
+        "Xodog__title_2": "Small delicious hot dog",
+        "Xodog__title_3": "Large delicious classic hot dog",
+        "Xodog__title_4": "Small delicious hot dog",
+        "Xodog__title_5": "Large delicious hot dog",
+        "Xodog__title_6": "Small delicious hot dog",
+        "Xodog__title_7": "Large delicious hot dog",
+        "Xodog__title_8": "Small delicious hot dog",
+        "Xodog__title_9": "Large delicious hot dog"
+    },
+    "xodog": {
+        "xodog__text_1": "Information: classic with meat",
+        "xodog__text_2": "Information: classic with salad",
+        "xodog__text_3": "Information: classic with cheese",
+        "xodog__text_4": "Information: classic with meat and cheese",
+        "xodog__text_5": "Information: classic with shashlik",
+        "xodog__text_6": "Information: simple classic",
+        "xodog__text_7": "Information: classic with cutlet",
+        "xodog__text_8": "Information: classic with meat",
+        "xodog__text_9": "Information: classic with meat"
+    },
+    "Free": {
+        "Free__title_1": "Large fries with spicy sauce",
+        "Free__title_2": "Small fries with sauce",
+        "Free__title_3": "Large fries with extra fries",
+        "Free__title_4": "Large fries with Pepsi",
+        "Free__title_5": "Large fries",
+        "Free__title_6": "Small fries",
+        "Free__title_7": "Large fries with extra fries",
+        "Free__title_8": "Large fries with Pepsi",
+        "Free__title_9": "Large fries with Cola"
+    },
+    "free": {
+        "free__text_1": "Information: classic with meat",
+        "free__text_2": "Information: classic with meat",
+        "free__text_3": "Information: classic with meat",
+        "free__text_4": "Information: classic with meat",
+        "free__text_5": "Information: classic with meat",
+        "free__text_6": "Information: classic with meat",
+        "free__text_7": "Information: classic with meat",
+        "free__text_8": "Information: classic with meat",
+        "free__text_9": "Information: classic with meat"
+    },
+    "Drink": {
+        "Drink__title_1": "Drinks cold and in good condition",
+        "Drink__title_2": "Drinks cold and good",
+        "Drink__title_3": "Drinks cold and good",
+        "Drink__title_4": "Drinks cold and good",
+        "Drink__title_5": "Drinks cold and good",
+        "Drink__title_6": "Drinks cold and good",
+        "Drink__title_7": "Drinks cold and good",
+        "Drink__title_8": "Drinks cold and good",
+        "Drink__title_9": "Drinks cold and good"
+    },
+    "drink": {
+        "drink__text_1": "Information: cold water and juices",
+        "drink__text_2": "Information: cold water and juices",
+        "drink__text_3": "Information: cold water and juices",
+        "drink__text_4": "Information: cold water and juices",
+        "drink__text_5": "Information: cold water and juices",
+        "drink__text_6": "Information: cold water and juices",
+        "drink__text_7": "Information: cold water and juices",
+        "drink__text_8": "Information: cold water and juices",
+        "drink__text_9": "Information: cold water and juices"
+    },
+    "Salad": {
+        "Salad__title_1": "Salads each with a unique flavor",
+        "Salad__title_2": "Salads each with a unique flavor",
+        "Salad__title_3": "Salads each with a unique flavor",
+        "Salad__title_4": "Salads each with a unique flavor",
+        "Salad__title_5": "Salads each with a unique flavor",
+        "Salad__title_6": "Salads each with a unique flavor",
+        "Salad__title_7": "Salads each with a unique flavor",
+        "Salad__title_8": "Salads each with a unique flavor",
+        "Salad__title_9": "Salads each with a unique flavor"
+    },
+    "salad": {
+        "salad__text_1": "Information: classic meat salad",
+        "salad__text_2": "Information: simple classic salad",
+        "salad__text_3": "Information: Olivier classic salad",
+        "salad__text_4": "Information: herring under a fur coat classic salad",
+        "salad__text_5": "Information: vegetable classic salad",
+        "salad__text_6": "Information: classic meat salad",
+        "salad__text_7": "Information: classic meat salad",
+        "salad__text_8": "Information: classic meat salad",
+        "salad__text_9": "Information: classic meat salad"
+    },
+    "Bread": {
+        "Bread__title_1": "Breads each with a unique flavor",
+        "Bread__title_2": "Breads each with a unique flavor",
+        "Bread__title_3": "Breads each with a unique flavor",
+        "Bread__title_4": "Breads each with a unique flavor",
+        "Bread__title_5": "Breads each with a unique flavor",
+        "Bread__title_6": "Breads each with a unique flavor",
+        "Bread__title_7": "Breads each with a unique flavor",
+        "Bread__title_8": "Breads each with a unique flavor",
+        "Bread__title_9": "Breads each with a unique flavor"
+    },
+    "bread": {
+        "bread__text_1": "Information: breads",
+        "bread__text_2": "Information: breads",
+        "bread__text_3": "Information: breads",
+        "bread__text_4": "Information: breads",
+        "bread__text_5": "Information: breads",
+        "bread__text_6": "Information: breads",
+        "bread__text_7": "Information: breads",
+        "bread__text_8": "Information: breads",
+        "bread__text_9": "Information: breads"
+    },
+    "Sauke": {
+        "Sauke__title_1": "Sauces, each with a unique flavor",
+        "Sauke__title_2": "Sauces, each with a unique flavor",
+        "Sauke__title_3": "Sauces, each with a unique flavor",
+        "Sauke__title_4": "Sauces, each with a unique flavor",
+        "Sauke__title_5": "Sauces, each with a unique flavor",
+        "Sauke__title_6": "Sauces, each with a unique flavor",
+        "Sauke__title_7": "Sauces, each with a unique flavor",
+        "Sauke__title_8": "Sauces, each with a unique flavor",
+        "Sauke__title_9": "Sauces, each with a unique flavor"
+    },
+    "sauke": {
+        "sauke__text_1": "Information: sauces are spicy and uniquely flavored",
+        "sauke__text_2": "Each dish will taste better",
+        "sauke__text_3": "Each dish will taste better",
+        "sauke__text_4": "Each dish will taste better",
+        "sauke__text_5": "Each dish will taste better",
+        "sauke__text_6": "Each dish will taste better",
+        "sauke__text_7": "Each dish will taste better",
+        "sauke__text_8": "Each dish will taste better",
+        "sauke__text_9": "Each dish will taste better"
+    }
 }
