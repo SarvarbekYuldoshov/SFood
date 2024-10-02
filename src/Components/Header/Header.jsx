@@ -21,7 +21,7 @@ const Header = () => {
         </ul>
         <ul className='header-list'>
           <li className='header-item'>
-            <select
+            <select 
               defaultValue={"uz"}
               onChange={handleLanguage}
             >
