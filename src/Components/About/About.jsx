@@ -2,7 +2,6 @@ import React from 'react'
 import "./About.css"
 import { useTranslation } from 'react-i18next'
 const About = () => {
-  const {t} = useTranslation();
   return (
     <div className='about'>
       <div className='container about-container'>

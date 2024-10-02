@@ -19,7 +19,7 @@ export default function Hero() {
 
   return (
     <>
-    <div className='hero'>
+    <div className=''>
       <Swiper
         style={{
           '--swiper-navigation-color': '#fff',
@@ -31,7 +31,7 @@ export default function Hero() {
         thumbs={{ swiper: thumbsSwiper && !thumbsSwiper.destroyed ? thumbsSwiper : null }}
 
         modules={[FreeMode, Navigation, Thumbs]}
-        className="mySwiper2"
+        className="hero"
       >
         <SwiperSlide>
           <img className='hero-img' src="https://cdn.delever.uz/delever/1b71b079-f375-43ca-b24b-04d0e0b9b0dd" />

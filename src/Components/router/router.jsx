@@ -19,7 +19,6 @@ import Sauke from "../Food/Sauke/Sauke"
 import Xagi from "../Food/Xagi/Xagi";
 import Button from "../Button/Button";
 import NumberCard from "../Number.card/NumberCard";
-import PAket from "../Paket/PAket";
 
 
 const router = createBrowserRouter([
@@ -107,12 +106,8 @@ const router = createBrowserRouter([
                 path: "/button",
                 element: <Button />
             },
-            {
-                path: "/paket",
-                element: <PAket/>
-            }
-            
-        ],
+
+                ],
 
     },
 ])
