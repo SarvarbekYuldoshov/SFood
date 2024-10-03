@@ -1,11 +1,16 @@
 import React, { useEffect } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import Rasm_1 from "../images/icon.png";
+import Rasm_1 from "../images/icon.png"; 
+import Rasm_2 from "../images/burger-1.jpg";
+import Rasm_3 from "../images/burger-2.jpg";
+import Rasm_4 from "../images/rasm4.png";
+import Rasm_5 from "../images/rasm5.png";
 import { Dropdown } from 'antd';
 
 const Header = () => {
   const { t, i18n } = useTranslation();
+
   useEffect(() => {
     const savedLanguage = localStorage.getItem('language');
     if (savedLanguage) {
@@ -19,6 +24,32 @@ const Header = () => {
     localStorage.setItem('language', selectedLanguage);
   };
 
+  const items = [
+    {
+      key: '1',
+      label: (
+        <ul className='flex flex-col gap-2'>
+          <Link className='flex gap-5 items-center' to="#home1">
+            <img className='w-6 h-6' src={Rasm_2} alt="Rasm_2" />
+            <p>{t('header.header_1')}</p>
+          </Link>
+          <Link className='flex gap-5 items-center' to="#home2">
+            <img className='w-6 h-6' src={Rasm_3} alt="Rasm_3" />
+            <p> {t('header.header_2')}</p>
+          </Link>
+          <Link className='flex gap-5 items-center' to="#home3">
+            <img className='w-6 h-6' src={Rasm_4} alt="Rasm_4" />
+            <p> {t('header.header_3')}</p>
+          </Link>
+          <Link className='flex gap-5 items-center' to="#home4">
+            <img className='w-6 h-6' src={Rasm_5} alt="Rasm_5" />
+            <p> {t('header.header_4')}</p>
+          </Link>
+        </ul>
+      ),
+    },
+  ];
+
   return (
     <div className="fixed top-0 left-0 right-0 shadow-md bg-white z-50">
       <div className="container mx-auto flex justify-between items-center px-4 py-3">
@@ -31,7 +62,7 @@ const Header = () => {
           <li>
             <Dropdown
               className="ml-3 mt-[5px]"
-              menu={{ items: [] }}  // `items` bo'lishi kerak bo'lgan joy, uni mos ravishda to'ldiring
+              menu={{ items }} 
               placement="bottomRight"
             >
               <button className="flex items-center gap-3 bg-transparent text-white">
@@ -41,22 +72,22 @@ const Header = () => {
             </Dropdown>
           </li>
           <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" activeClassName="active" to="/">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" to="/">
               {t('header.header_1')}
             </NavLink>
           </li>
           <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" activeClassName="active" to="/number">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" to="/number">
               {t('header.header_2')}
             </NavLink>
           </li>
           <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" activeClassName="active" to="/about">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" to="/about">
               {t('header.header_3')}
             </NavLink>
           </li>
           <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" activeClassName="active" to="/hover">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" to="/hover">
               {t('header.header_4')}
             </NavLink>
           </li>
