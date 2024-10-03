@@ -54,7 +54,7 @@ const Header = () => {
           <li>
             <div className='hidden xl:hidden max-md:block'>
               <Dropdown
-                className="w-[100px]"
+                className="w-[70px]"
                 menu={{ items }} 
                 placement="bottomRight"
               >
@@ -90,7 +90,7 @@ const Header = () => {
         <ul className="flex items-center gap-2 lg:gap-6 text-sm">
           <li>
             <select
-              className="border border-gray-300 rounded py-1 px-2 text-sm"
+              className="border border-none rounde text-sm"
               defaultValue={i18n.language}
               onChange={handleLanguage}
             >
