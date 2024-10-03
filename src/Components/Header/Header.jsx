@@ -6,8 +6,6 @@ import { Dropdown } from 'antd';
 
 const Header = () => {
   const { t, i18n } = useTranslation();
-
-  // LocalStorage orqali tilni yuklash
   useEffect(() => {
     const savedLanguage = localStorage.getItem('language');
     if (savedLanguage) {
@@ -15,7 +13,6 @@ const Header = () => {
     }
   }, [i18n]);
 
-  // Tilni o'zgartirish va localStorage-ga saqlash
   const handleLanguage = (e) => {
     const selectedLanguage = e.target.value;
     i18n.changeLanguage(selectedLanguage);
