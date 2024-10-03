@@ -52,34 +52,36 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <Dropdown
-              className="ml-3 mt-[5px]"
-              menu={{ items }} 
-              placement="bottomRight"
-            >
-              <button className="flex items-center gap-3 bg-transparent text-white">
-                <img className='w-[35px] h-[35px]' src={Rasm_1} alt="" />
-                <span className="text-white text-lg font-semibold">{t("header.header_text_29")}</span>
-              </button>
-            </Dropdown>
+            <div className='hidden xl:hidden max-md:block'>
+              <Dropdown
+                className=""
+                menu={{ items }} 
+                placement="bottomRight"
+              >
+                <button className="flex items-center gap-3 bg-transparent text-white">
+                  <img className='w-[35px] h-[35px]' src={Rasm_1} alt="" />
+                  <span className="text-white text-lg font-semibold">{t("header.header_text_29")}</span>
+                </button>
+              </Dropdown>
+            </div>
           </li>
           <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" to="/">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 max-md:hidden" to="/">
               {t('header.header_1')}
             </NavLink>
           </li>
           <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" to="/number">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 max-md:hidden" to="/number">
               {t('header.header_2')}
             </NavLink>
           </li>
-          <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" to="/about">
+          <li> 
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 max-md:hidden" to="/about">
               {t('header.header_3')}
             </NavLink>
           </li>
           <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600" to="/hover">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 max-md:hidden" to="/hover">
               {t('header.header_4')}
             </NavLink>
           </li>
