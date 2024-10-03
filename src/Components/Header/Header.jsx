@@ -59,7 +59,7 @@ const Header = () => {
                 placement="bottomRight"
               >
                 <button className="flex items-center gap-3 bg-transparent text-white">
-                  <img className='w-[35px] h-[35px]' src={Rasm_1} alt="" />
+                  <img className='w-[30px] h-[30px]' src={Rasm_1} alt="" />
                   <span className="text-white text-lg font-semibold">{t("header.header_text_29")}</span>
                 </button>
               </Dropdown>
