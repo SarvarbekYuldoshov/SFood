@@ -63,7 +63,7 @@ const Lavash = () => {
   }
   return (
     <div className='lavash'>
-      <div className='container lavash-container'>
+      <div className='container lavash-container gap-[200px]'>
         <Card data = {Data1}/>
         <Card data = {Data2}/>
         <Card data = {Data3}/>
