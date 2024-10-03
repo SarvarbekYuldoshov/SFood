@@ -25,16 +25,16 @@ const Header = () => {
       key: '1',
       label: (
         <ul className='flex flex-col gap-2'>
-          <Link className='flex gap-5 items-center' to="#home1">
+          <Link to="#home1">
             <p>{t('header.header_1')}</p>
           </Link>
-          <Link className='flex gap-5 items-center' to="#home2">
+          <Link to="#home2">
             <p> {t('header.header_2')}</p>
           </Link>
-          <Link className='flex gap-5 items-center' to="#home3">
+          <Link to="#home3">
             <p> {t('header.header_3')}</p>
           </Link>
-          <Link className='flex gap-5 items-center' to="#home4">
+          <Link to="#home4">
             <p> {t('header.header_4')}</p>
           </Link>
         </ul>
