@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import Rasm_1 from "../images/icon.png"
 
 const Header = () => {
   const { t, i18n } = useTranslation();
@@ -28,6 +29,9 @@ const Header = () => {
             <a className="text-purple-600 font-dancing-script text-xl lg:text-2xl font-bold" href="#">
               SFood
             </a>
+          </li>
+          <li className=''>
+            <img className='w-[30px] h-[30px]' src={Rasm_1} alt="" />
           </li>
           <li>
             <NavLink className="py-1 px-2 transition-all hover:text-purple-600" activeClassName="active" to="/">
@@ -71,7 +75,7 @@ const Header = () => {
                 </svg>
               </a>
             </Link>
-            <NavLink className="text-xs lg:text-sm text-white bg-purple-600 hover:bg-transparent hover:text-purple-600 border border-purple-600 py-1 px-3 lg:py-2 lg:px-4 ml-2 lg:ml-4 transition-all max-md:" to="/button">
+            <NavLink className="text-xs lg:text-sm text-white bg-purple-600 hover:bg-transparent hover:text-purple-600 border border-purple-600 py-1 px-3 lg:py-2 lg:px-4 ml-2 lg:ml-4 transition-all" to="/button">
               {t('header.header_5')}
             </NavLink>
           </li>
