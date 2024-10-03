@@ -2,10 +2,6 @@ import React, { useEffect } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import Rasm_1 from "../images/icon.png"; 
-import Rasm_2 from "../images/burger-1.jpg";
-import Rasm_3 from "../images/burger-2.jpg";
-import Rasm_4 from "../images/rasm4.png";
-import Rasm_5 from "../images/rasm5.png";
 import { Dropdown } from 'antd';
 
 const Header = () => {
@@ -30,19 +26,15 @@ const Header = () => {
       label: (
         <ul className='flex flex-col gap-2'>
           <Link className='flex gap-5 items-center' to="#home1">
-            <img className='w-6 h-6' src={Rasm_2} alt="Rasm_2" />
             <p>{t('header.header_1')}</p>
           </Link>
           <Link className='flex gap-5 items-center' to="#home2">
-            <img className='w-6 h-6' src={Rasm_3} alt="Rasm_3" />
             <p> {t('header.header_2')}</p>
           </Link>
           <Link className='flex gap-5 items-center' to="#home3">
-            <img className='w-6 h-6' src={Rasm_4} alt="Rasm_4" />
             <p> {t('header.header_3')}</p>
           </Link>
           <Link className='flex gap-5 items-center' to="#home4">
-            <img className='w-6 h-6' src={Rasm_5} alt="Rasm_5" />
             <p> {t('header.header_4')}</p>
           </Link>
         </ul>
