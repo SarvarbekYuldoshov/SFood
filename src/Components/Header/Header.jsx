@@ -88,7 +88,7 @@ const Header = () => {
         <ul className="flex items-center gap-2 lg:gap-6 text-sm">
           <li>
             <select
-              className="border border-none rounde text-sm"
+              className="border border-none rounde text-[20px]"
               defaultValue={i18n.language}
               onChange={handleLanguage}
             >
