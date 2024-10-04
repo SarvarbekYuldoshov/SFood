@@ -28,7 +28,7 @@ const Sauke = () => {
 
   return (
     <div className="max-w-screen-xl mx-auto p-5">
-      <div className="flex flex-wrap justify-center gap-6">
+      <div className="flex flex-wrap justify-center gap-[200px]">
         {saukeData.map((data, index) => (
           <Card key={index} data={data} />
         ))}
