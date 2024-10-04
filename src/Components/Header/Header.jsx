@@ -47,9 +47,7 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center px-4 py-3">
         <ul className="flex items-center gap-4 lg:gap-12 text-sm lg:text-base">
           <li>
-            <a className="text-purple-600 font-dancing-script text-xl lg:text-2xl font-bold" href="#">
-              SFood
-            </a>
+            <Link to="/" className='text-purple-600 font-dancing-script lg:text-4xl font-bold transform  inline-block hover:text-purple-800 transition duration-300 ease-in-out shadow-lg" href="#"'>SFood</Link>    
           </li>
           <li>
             <div className='hidden xl:hidden max-md:block'>
@@ -66,22 +64,22 @@ const Header = () => {
             </div>
           </li>
           <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 max-md:hidden" to="/">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 text-[25px] max-md:hidden" to="/">
               {t('header.header_1')}
             </NavLink>
           </li>
           <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 max-md:hidden" to="/number">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 text-[25px] max-md:hidden" to="/number">
               {t('header.header_2')}
             </NavLink>
           </li>
           <li> 
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 max-md:hidden" to="/about">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 text-[25px] max-md:hidden" to="/about">
               {t('header.header_3')}
             </NavLink>
           </li>
           <li>
-            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 max-md:hidden" to="/hover">
+            <NavLink className="py-1 px-2 transition-all hover:text-purple-600 text-[25px] max-md:hidden" to="/hover">
               {t('header.header_4')}
             </NavLink>
           </li>
