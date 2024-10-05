@@ -19,6 +19,7 @@ const Layout = () => {
             </NavLink>
           </li>
           <li className='layout-item'>
+          <img src="" alt="" />
             <NavLink
               className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
               to='/desert'
