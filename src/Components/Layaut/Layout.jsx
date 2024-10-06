@@ -19,7 +19,7 @@ const Layout = () => {
           <li className='layout-item flex items-center gap-[10px]'>
             <img className='w-[30px] h-[30px] rounded-[20px]' src={Rasm_1} alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-[25px] text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded  transition duration-500'
               to='/'
             >
               {t('layout.layout_1')}
@@ -27,9 +27,9 @@ const Layout = () => {
           </li>
           <li className='layout-item flex items-center gap-[10px]'>
           <img className='w-[30px] h-[30px] rounded-[20px]' src={Rasm_2} alt="" />
-            <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
-              to='/desert'
+          <NavLink
+              className='layout-link text-[25px] text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded  transition duration-500'
+              to='/'
             >
               {t('layout.layout_2')}
             </NavLink>
