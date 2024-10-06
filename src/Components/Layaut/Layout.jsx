@@ -1,6 +1,13 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import Rasm_1 from "../images/lavash8.jpg"
+import Rasm_2 from "../images/desert-2.jpg"
+import Rasm_3 from "../images/lavash8.jpg"
+import Rasm_4 from "../images/lavash8.jpg"
+import Rasm_5 from "../images/lavash8.jpg"
+import Rasm_6 from "../images/lavash8.jpg"
+import Rasm_7 from "../images/lavash8.jpg"
 
 const Layout = () => {
   const { t } = useTranslation();
@@ -9,8 +16,8 @@ const Layout = () => {
     <div className='bg-purple-700 py-6'>
       <div className='container mx-auto'>
         <ul className='flex flex-wrap justify-center gap-4'>
-          <li className='layout-item'>
-            <img src="" alt="" />
+          <li className='layout-item flex items-center gap-[10px]'>
+            <img className='w-[30px] h-[30px]' src={Rasm_1} alt="" />
             <NavLink
               className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
               to='/'
