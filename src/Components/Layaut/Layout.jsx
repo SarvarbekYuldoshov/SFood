@@ -37,7 +37,7 @@ const Layout = () => {
           <li className='layout-item flex items-center gap-[10px]'>
           <img className='w-[30px] h-[30px] rounded-[20px]' src={Rasm_3} alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/set'
             >
               {t('layout.layout_3')}
@@ -46,7 +46,7 @@ const Layout = () => {
           <li className='layout-item flex items-center gap-[10px]'>
           <img className='w-[30px] h-[30px] rounded-[20px]' src={Rasm_4} alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/xagi'
             >
               {t('layout.layout_4')}
@@ -55,7 +55,7 @@ const Layout = () => {
           <li className='layout-item'>
           <img src="" alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/burger'
             >
               {t('layout.layout_5')}
@@ -64,7 +64,7 @@ const Layout = () => {
           <li className='layout-item'>
           <img src="" alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/pizza'
             >
               {t('layout.layout_6')}
@@ -73,7 +73,7 @@ const Layout = () => {
           <li className='layout-item'>
           <img src="" alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/sendvich'
             >
               {t('layout.layout_7')}
@@ -82,7 +82,7 @@ const Layout = () => {
           <li className='layout-item'>
           <img src="" alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/xoddog'
             >
               {t('layout.layout_8')}
@@ -91,7 +91,7 @@ const Layout = () => {
           <li className='layout-item'>
           <img src="" alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/free'
             >
               {t('layout.layout_9')}
@@ -100,7 +100,7 @@ const Layout = () => {
           <li className='layout-item'>
           <img src="" alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/drink'
             >
               {t('layout.layout_10')}
@@ -109,7 +109,7 @@ const Layout = () => {
           <li className='layout-item'>
           <img src="" alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/salad'
             >
               {t('layout.layout_11')}
@@ -118,7 +118,7 @@ const Layout = () => {
           <li className='layout-item'>
           <img src="" alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/bread'
             >
               {t('layout.layout_12')}
@@ -127,7 +127,7 @@ const Layout = () => {
           <li className='layout-item'>
           <img src="" alt="" />
             <NavLink
-              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[18px] transition duration-500'
+              className='layout-link text-white bg-transparent hover:bg-white hover:text-purple-700 border-2 border-transparent px-4 py-2 rounded text-[25px] transition duration-500'
               to='/sauke'
             >
               {t('layout.layout_13')}
