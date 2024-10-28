@@ -7,6 +7,7 @@ const Menu = () => {
       <div className='container menu-container'>
         <Outlet/>
         <p></p>
+        <h1></h1>
       </div>
     </div>
   )
