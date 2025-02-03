@@ -65,6 +65,9 @@ const Layout = () => {
             >
               {t('layout.layout_3')}
             </NavLink>
+
+{/* ----------------------------------------------------------------------------------------------------------------- */}
+
           </li>
           <li className='layout-item flex items-center gap-[10px]'>
           <img className='w-[30px] h-[30px] rounded-[20px]' src={Rasm_4} alt="" />
