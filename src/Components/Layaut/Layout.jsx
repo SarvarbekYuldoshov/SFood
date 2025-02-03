@@ -22,6 +22,9 @@ const Layout = () => {
   return (
     <div className='bg-purple-700 py-6'>
       <div className='container mx-auto'>
+
+{/* ------------------------------------------------------------------------------------------------------------------ */}
+
         <ul className='flex flex-wrap justify-center gap-4'>
           <li className='layout-item flex items-center gap-[10px]'>
             <img className='w-[30px] h-[30px] rounded-[20px]' src={Rasm_1} alt="" />
