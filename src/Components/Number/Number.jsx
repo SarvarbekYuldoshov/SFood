@@ -37,6 +37,9 @@ const Number = () => {
           </li>
         </ul>
         </Link>
+
+{/* ---------------------------------------------------------------------------------------------------------------------- */}
+
         <Link to="/numbercard"> 
         <ul className='number-list'>
           <li className='number-item'>
