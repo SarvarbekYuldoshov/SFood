@@ -35,7 +35,7 @@ const Layout = () => {
               {t('layout.layout_1')}
             </NavLink>
 
-
+{/* ------------------------------------------------------------------------------------------------------------------ */}
 
           </li>
           <li className='layout-item flex items-center gap-[10px]'>
