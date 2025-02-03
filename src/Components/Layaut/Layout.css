@@ -1,5 +1,5 @@
 .layout{
-    background-color: #8a2be2;
+    background-color: #8524e0;
     margin-top: 20px;
 }
 .layout-list{
@@ -7,14 +7,15 @@
     gap: 22px;
 }
 .layout-link{
-    color: #FFFF;
+    color: #e7e3e3;
     display: inline-block;
     font-size: 13px;
     line-height: 25px;
-    padding: 10px 15px;
+    padding: 10px 14px;
     transition: .5s;
 }
 .layout-link:active{
-    background: #FFFF;
+    background: #ffffff;
     color:#8a2be2;
 }
+
