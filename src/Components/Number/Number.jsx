@@ -7,6 +7,9 @@ const Number = () => {
   return (
     <div className='number'>
       <div className='container number-container'>
+
+{/* ----------------------------------------------------------------------------------------------------------------------- */}
+
        <Link to="/numbercard"> 
        <ul className='number-list'>
           <li className='number-item'>
