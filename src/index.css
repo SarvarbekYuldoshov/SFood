@@ -12,7 +12,7 @@
 }
 .active{
     color: #fff;   
-    background: #8a2be2;
+    background: #8524de;
 }
 @tailwind base;
 @tailwind components;
