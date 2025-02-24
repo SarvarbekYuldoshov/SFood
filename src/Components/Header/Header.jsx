@@ -41,6 +41,7 @@ const Header = () => {
       ),
     },
   ];  
+  
   return (
     <div className="fixed top-0 left-0 right-0 shadow-md bg-white z-50">
       <div className="container mx-auto flex justify-between items-center px-4 py-3">

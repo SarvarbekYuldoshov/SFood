@@ -15,7 +15,7 @@ const Card = ({ data }) => {
           <h1 className="text-xl font-semibold mb-2">{data.title}</h1>
           <p className="text-gray-700 mb-4">{data.text}</p>
           <div className="flex justify-between items-center">
-            <p className="text-lg font-bold text-purple-700">2.29 сум</p>
+            <p className="text-lg font-bold text-purple-700">2.29 $</p>
             <button className="px-4 py-2 bg-purple-700 text-white rounded-lg transition duration-300 transform hover:scale-105 hover:bg-transparent hover:text-purple-700 border-2 border-purple-700">
               {t("Hover.Hover_text_9")}
             </button>
